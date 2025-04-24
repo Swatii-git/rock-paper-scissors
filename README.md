@@ -22,10 +22,4 @@ The player’s choice is compared with the computer’s randomly generated choic
 - **HTML**: To structure the webpage and display the game.
 - **CSS**: To style the game and make it visually appealing.
 - **JavaScript**: For the game logic, including generating the computer's choice, comparing it with the player's, and updating the score.
-
-## Installation Guide
-To run this project locally, follow the steps below:
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/rock-paper-scissors.git
+ 
